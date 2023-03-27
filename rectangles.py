@@ -15,8 +15,8 @@ def count_rectangles(points):
 
     return diagonale//2  #din moment ce in variabila diagonale avem nr de diagonale valide, iar un dreptunghi are 2 diagonale, impartim la 2
 
-print(count_rectangles([(1,1),(1,3),(2,1),(3,1),(2,3),(3,3)]))
-print(count_rectangles([(1,1),(1,3),(2,1),(3,1)      ,(3,3)]))
-print(count_rectangles([(1, 1), (3, 1), (5, 1), (3, 3),(1,3),(3,-1),(1,-1),(5,-1),(5,3)]))
-print(count_rectangles([(1, 1),(0,0),(0,1),(1,0)]))
+# print(count_rectangles([(1,1),(1,3),(2,1),(3,1),(2,3),(3,3)]))
+# print(count_rectangles([(1,1),(1,3),(2,1),(3,1)      ,(3,3)]))
+# print(count_rectangles([(1, 1), (3, 1), (5, 1), (3, 3),(1,3),(3,-1),(1,-1),(5,-1),(5,3)]))
+# print(count_rectangles([(1, 1),(0,0),(0,1),(1,0)]))
 
